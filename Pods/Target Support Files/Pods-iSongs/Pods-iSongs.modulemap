@@ -1,0 +1,6 @@
+framework module Pods_iSongs {
+  umbrella header "Pods-iSongs-umbrella.h"
+
+  export *
+  module * { export * }
+}
